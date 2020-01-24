@@ -1,0 +1,51 @@
+Most current survey,OBJECTID_1,SpeciesID,Region,SubRegion,Year,SiteName,NestPairs,ColSize (ha),Note,Technique,ObserverID
+previous,940,RHAU,Haida Gwaii,East coast Moresby Island,1985,High island,10,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,949,RHAU,Haida Gwaii,East coast Moresby Island,1985,Charles Island,50,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,951,RHAU,Haida Gwaii,East coast Moresby Island,1986,Charles island,130,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,1837,RHAU,Haida Gwaii,East coast Moresby Island,1986,(Kunghit island) Lyman point,2500,43, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,322,RHAU,Haida Gwaii,West coast Moresby Island,1985,Gordon islands,80,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,251,RHAU,Haida Gwaii,West coast Moresby Island,1986,Lihou island,2700,7.1,Pop'n est: 2745 ± 924,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,226,RHAU,Haida Gwaii,West coast Moresby Island,1986,Helgesen island,16600,10.9,"Pop'n est: 16589 (main 15636 ± 2580, litte 953 ± 877); Col Size 10.9 ha (main 10.2, little 0.7)",Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+previous,1528,RHAU,Vancouver Island,Scott Islands,1984,Triangle island,25100,8.7, ,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,401,RHAU,Haida Gwaii,East coast Moresby Island,1983,Limestone Islands east,2,0, ,Inferred count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,939,RHAU,Haida Gwaii,East coast Moresby Island,1993,High Island,6,0, ,Total count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,956,RHAU,Haida Gwaii,East coast Moresby Island,1986,Annette island,20,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1003,RHAU,Haida Gwaii,East coast Moresby Island,1985,Bolkus islands,20,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,950,RHAU,Haida Gwaii,East coast Moresby Island,1993,Charles Island,90,0, ,Total count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1838,RHAU,Haida Gwaii,East coast Moresby Island,1993,(Kunghit Island) Lyman point,2500,43, ,Total count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1194,RHAU,Haida Gwaii,West Coast Graham Island,1981,Cox island,0,0,Extripated,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1185,RHAU,Haida Gwaii,West Coast Graham Island,1981,Langara island,0,0,Extripated,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1320,RHAU,Haida Gwaii,West Coast Graham Island,1977,Marble island,200,0, ,Partial Count,Royal British Columbia Provincial Museum
+yes,219,RHAU,Haida Gwaii,West coast Moresby Island,1986,Saunders island,0,[8.1],"Historic colony size (see old burrows), prior to extripation",Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,272,RHAU,Haida Gwaii,West coast Moresby Island,1986,Cape Kuper,10,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,238,RHAU,Haida Gwaii,West coast Moresby Island,1986,Carswell island,20,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,268,RHAU,Haida Gwaii,West coast Moresby Island,1986,Rogers island,20,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,276,RHAU,Haida Gwaii,West coast Moresby Island,1986,Moresby islets,40,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,234,RHAU,Haida Gwaii,West coast Moresby Island,1986,Willie island,80,0.14, ,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,323,RHAU,Haida Gwaii,West coast Moresby Island,1993,Gordon Islands,127,0, ,Total count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,263,RHAU,Haida Gwaii,West coast Moresby Island,1986,Luxmoore island,300,0.6, ,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,243,RHAU,Haida Gwaii,West coast Moresby Island,1986,Instructor island,850,1.6, ,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,252,RHAU,Haida Gwaii,West coast Moresby Island,1993,Lihou Island,2800,7.1, ,Transects,"Gaston, A.J. -Environment Canada - S&T NC region"
+yes,227,RHAU,Haida Gwaii,West coast Moresby Island,1993,Helgesen Island,3300,5, ,Transects,"Gaston, A.J. -Environment Canada - S&T NC region"
+yes,312,RHAU,Haida Gwaii,West coast Moresby Island,1985,Skaang Gwai,13600,11.9,Pop'n est: 13771 ± 2244,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2068,RHAU,Northern Mainland Coast, ,1987,Connel islands,0,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2105,RHAU,Northern Mainland Coast, ,1988,Dupont island,0,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2109,RHAU,Northern Mainland Coast, ,1988,Wells rocks,0,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2204,RHAU,Northern Mainland Coast, ,1988,Egg island,90,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2125,RHAU,Northern Mainland Coast, ,1988,McKenney islands,130,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2158,RHAU,Northern Mainland Coast, ,1988,Harvey islands,210,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2084,RHAU,Northern Mainland Coast, ,1987,Rachael islands,300,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2151,RHAU,Northern Mainland Coast, ,1988,Conroy island,500,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2130,RHAU,Northern Mainland Coast, ,1988,Whitmore islands,12400,8.3,Pop'n est: 12382 ± 2595,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2074,RHAU,Northern Mainland Coast, ,1983,Lucy Islands,25300,9.53,Pop'n est: 25299 ± 1337,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2138,RHAU,Northern Mainland Coast, ,1988,Byers islands,37900,9.5,Pop'n est: 37911 ± 5980,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2118,RHAU,Northern Mainland Coast, ,1988,Moore islands,40500,30.1,"Pop'n est: 40532 (main 39663 ± 4388, little 869 ± 452)",Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1275,RHAU,Vancouver Island,Gulf Islands - southern Strait of Georgia,1983,Mandarte island and islet,6,0,includes the south islet,Partial Count,Royal British Columbia Provincial Museum
+yes,1469,RHAU,Vancouver Island,Queen Charlotte Strait to Johnstone Strait,1986,Tree islets,100,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1495,RHAU,Vancouver Island,Queen Charlotte Strait to Johnstone Strait,1982,Numas islands,550,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2253,RHAU,Vancouver Island,Queen Charlotte Strait to Johnstone Strait,1987,Storm islands,72000,24.0,Pop'n est: 72138 ± 6104,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1473,RHAU,Vancouver Island,Queen Charlotte Strait to Johnstone Strait,1985,Pine Island,89500,22.7,Pop'n est: 89535 ± 7819,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,486,RHAU,Vancouver Island,Scott Islands,1987,Lanz island,0,0, ,Total Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1529,RHAU,Vancouver Island,Scott Islands,1989,Triangle Island,41700,11.2,Pop'n est: 41682 ± 4216,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,2637,RHAU,Vancouver Island,West coast Vancouver Island,1988,Seabird rocks,130,0, ,Partial Count,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
+yes,1602,RHAU,Vancouver Island,West coast Vancouver Island,1988,Cleland island,1000,1.5,includes Murre Reef; Pop'n est: 992 ± 417,Transects,Environment Canada - Canadian Wildlife Service Pacific and Yukon Region
